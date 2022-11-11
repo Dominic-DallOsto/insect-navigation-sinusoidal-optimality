@@ -15,7 +15,7 @@ Idea: Show that the a sinusoidal activity profile in a circulant ring network ha
 
 ## Hebbian learning
 
-* [Hebbian learning causes the weights to converge to a stable sinusoidal profile](sinusoidal%20activity%20Hebbian%20learning%20weights.ipynb)
+* [Hebbian learning causes the weights to converge to a stable sinusoidal profile](sinusoidal%20Hebbian%20learning%20weights.ipynb)
 * [Phase portraits for the activity and the weights](phase%20portaits.ipynb)
 * [Updating both the activity and weights simultaneously](sinusoidal%20updating%20activity%20and%20weights.ipynb)
 
