@@ -22,3 +22,10 @@ Idea: Show that the a sinusoidal activity profile in a circulant ring network ha
 ### Zero mean activity
 
 * [Hebbian learning causes the weights to converge to a stable sinusoidal profile](sinusoidal%20Hebbian%20learning%20weights%20negative%20activity.ipynb) - Figure 2
+
+## Plot styling
+
+* use seaborn-notebook style
+* full linewidth - make the plot 10 inches wide so the text is nicely readable in the paper
+* use TeX rendering
+* nice neuron activity plots - `'o--', markersize=6, linewidth=1`
