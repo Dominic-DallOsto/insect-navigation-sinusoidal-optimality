@@ -1,4 +1,4 @@
 .vscode
 *.pyc
 outcmaes
-janelia-data/*.csv
+janelia-data/*
