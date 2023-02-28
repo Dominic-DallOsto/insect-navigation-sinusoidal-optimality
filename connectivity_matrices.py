@@ -32,6 +32,9 @@ def get_locust_connectivity_matrix_raw():
 def get_fly_janelia_connectivity_matrix_raw():
 	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_janelia_grouped.npy'))
 
+def get_fly_janelia_one_sided_connectivity_matrix_raw():
+	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_janelia_one_sided.npy'))
+
 def get_fly_simplified_connectivity_matrix_raw():
 	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_simplified.npy'))
 
@@ -41,6 +44,7 @@ def get_locust_simplified_connectivity_matrix_raw():
 FLY = ConnectivityMatrix(16, 18, 18, 8, get_fly_connectivity_matrix_raw)
 LOCUST = ConnectivityMatrix(16, 16, 16, 8, get_locust_connectivity_matrix_raw)
 FLY_JANELIA = ConnectivityMatrix(16, 18, 16, 8, get_fly_janelia_connectivity_matrix_raw)
+FLY_JANELIA_ONE_SIDED = ConnectivityMatrix(8, 9, 8, 8, get_fly_janelia_one_sided_connectivity_matrix_raw)
 FLY_SIMPLIFIED = ConnectivityMatrix(8, 8, 8, 8, get_fly_simplified_connectivity_matrix_raw)
 LOCUST_SIMPLIFIED = ConnectivityMatrix(8, 8, 8, 8, get_locust_simplified_connectivity_matrix_raw)
 
@@ -104,6 +108,11 @@ get_fly_janelia_connectivity_matrix_bool = lambda : get_connectivity_matrix_bool
 get_fly_janelia_connectivity_matrix_string = lambda : get_connectivity_matrix_string(FLY_JANELIA)
 fly_janelia_neuron_index_to_name = lambda neuron_index : neuron_index_to_name(FLY_JANELIA, neuron_index)
 get_fly_janelia_connectivity_matrix_edge_list = lambda : get_connectivity_matrix_edge_list(FLY_JANELIA)
+
+get_fly_janelia_one_sided_connectivity_matrix_bool = lambda : get_connectivity_matrix_bool(FLY_JANELIA_ONE_SIDED)
+get_fly_janelia_one_sided_connectivity_matrix_string = lambda : get_connectivity_matrix_string(FLY_JANELIA_ONE_SIDED)
+fly_janelia_one_sided_neuron_index_to_name = lambda neuron_index : neuron_index_to_name_simplified_network(FLY_JANELIA_ONE_SIDED, neuron_index)
+get_fly_janelia_one_sided_connectivity_matrix_edge_list = lambda : get_connectivity_matrix_edge_list_simplified_network(FLY_JANELIA_ONE_SIDED)
 
 get_fly_simplified_connectivity_matrix_bool = lambda : get_connectivity_matrix_bool(FLY_SIMPLIFIED)
 get_fly_simplified_connectivity_matrix_string = lambda : get_connectivity_matrix_string(FLY_SIMPLIFIED)
