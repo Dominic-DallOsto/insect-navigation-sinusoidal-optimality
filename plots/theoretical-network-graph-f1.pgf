@@ -19,10 +19,12 @@
 %%   \import{<path to file>}{<filename>.pgf}
 %%
 %% Matplotlib used the following preamble
+%%   
 %%   \usepackage{fontspec}
 %%   \setmainfont{DejaVuSerif.ttf}[Path=\detokenize{C:/ProgramData/Miniconda3/envs/insects/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/}]
 %%   \setsansfont{DejaVuSans.ttf}[Path=\detokenize{C:/ProgramData/Miniconda3/envs/insects/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/}]
 %%   \setmonofont{DejaVuSansMono.ttf}[Path=\detokenize{C:/ProgramData/Miniconda3/envs/insects/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/}]
+%%   \makeatletter\@ifpackageloaded{underscore}{}{\usepackage[strings]{underscore}}\makeatother
 %%
 \begingroup%
 \makeatletter%
