@@ -15,13 +15,13 @@ Idea: Show that the a sinusoidal activity profile in a circulant ring network ha
 
 ## Oja's rule
 
-* [Oja's rule causes the weights to converge to a stable sinusoidal profile](sinusoidal%20Oja's%20rule%20negative%20activity.ipynb) - Figure 2
+* [Oja's rule causes the weights to converge to a stable sinusoidal profile](sinusoidal%20Oja's%20rule%20negative%20activity.ipynb)
 
 ## Hebbian learning
 
 * [Hebbian learning causes the weights to converge to a stable sinusoidal profile](sinusoidal%20Hebbian%20learning%20weights.ipynb)
 * [Phase portraits for the activity and the weights](phase%20portaits.ipynb)
-* [Updating both the activity and weights simultaneously](sinusoidal%20updating%20activity%20and%20weights.ipynb)
+* [Updating both the activity and weights simultaneously](sinusoidal%20updating%20activity%20and%20weights.ipynb) - Figure 5
 
 ### Zero mean activity
 
@@ -29,8 +29,13 @@ Idea: Show that the a sinusoidal activity profile in a circulant ring network ha
 
 ## Comparison to experimental data
 
-* [comparing the 4 population networks from Ioannis's paper to the abstract network we predict](insect%20network%20graph%20analysis.py)
+* [comparing the 4 population networks from Ioannis's paper to the abstract network we predict](insect%20network%20graph%20analysis.ipynb) - Figures 3 and 4
 * [deriving the 4 population connectivity network from Janelia's connectome data](fruit_fly_data_analysis.ipynb)
+
+## Multiple harmonic encodings
+
+* [What does it look like to encode with multiple harmonics at once](encoding%20with%20multiple%20harmonics.ipynb) - Figure 2
+* [How is an encoding with multiple harmonics affected by noise](noise%20affected%20multiple%20harmonics%20encoding.ipynb) - Figures 6 and 7
 
 
 ## Plot styling

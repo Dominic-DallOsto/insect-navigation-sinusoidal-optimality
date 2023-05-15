@@ -1933,49 +1933,49 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=1.307091in,y=2.319167in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{1}\)}%
+\pgftext[x=1.307091in,y=2.319167in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C310>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=0.652560in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{2}\)}%
+\pgftext[x=0.652560in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C3A0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=0.652560in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{4}\)}%
+\pgftext[x=0.652560in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C430>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=1.307091in,y=0.467874in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{5}\)}%
+\pgftext[x=1.307091in,y=0.467874in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C4C0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=1.961622in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{6}\)}%
+\pgftext[x=1.961622in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C550>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=1.961622in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{8}\)}%
+\pgftext[x=1.961622in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C5E0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=0.381445in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{3}\)}%
+\pgftext[x=0.381445in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C670>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=2.232738in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{7}\)}%
+\pgftext[x=2.232738in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C700>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
@@ -3307,49 +3307,49 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=3.769591in,y=2.319167in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{1}\)}%
+\pgftext[x=3.769591in,y=2.319167in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA3CCBC70>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=2.843945in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{3}\)}%
+\pgftext[x=2.843945in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C5E0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=3.769591in,y=0.467874in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{5}\)}%
+\pgftext[x=3.769591in,y=0.467874in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C550>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=4.695238in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{7}\)}%
+\pgftext[x=4.695238in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C4C0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=3.115060in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{2}\)}%
+\pgftext[x=3.115060in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C430>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=3.115060in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{4}\)}%
+\pgftext[x=3.115060in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C3A0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=4.424122in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{6}\)}%
+\pgftext[x=4.424122in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C310>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=4.424122in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{8}\)}%
+\pgftext[x=4.424122in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA624EB00>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
@@ -5241,49 +5241,49 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=6.232091in,y=2.319167in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{1}\)}%
+\pgftext[x=6.232091in,y=2.319167in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA4D7DAB0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=5.577560in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{2}\)}%
+\pgftext[x=5.577560in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C430>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=5.577560in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{4}\)}%
+\pgftext[x=5.577560in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C4C0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=6.232091in,y=0.467874in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{5}\)}%
+\pgftext[x=6.232091in,y=0.467874in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C550>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=6.886622in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{6}\)}%
+\pgftext[x=6.886622in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C5E0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=6.886622in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{8}\)}%
+\pgftext[x=6.886622in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA3CCB9A0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=5.306445in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{3}\)}%
+\pgftext[x=5.306445in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA3CCBC70>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=7.157738in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{7}\)}%
+\pgftext[x=7.157738in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA62BD000>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
@@ -7735,49 +7735,49 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=8.694591in,y=2.319167in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{1}\)}%
+\pgftext[x=8.694591in,y=2.319167in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA4D97880>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=8.040060in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{2}\)}%
+\pgftext[x=8.040060in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C5E0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=7.768945in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{3}\)}%
+\pgftext[x=7.768945in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C550>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=8.040060in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{4}\)}%
+\pgftext[x=8.040060in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C4C0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=8.694591in,y=0.467874in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{5}\)}%
+\pgftext[x=8.694591in,y=0.467874in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA5B0C430>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=9.349122in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{6}\)}%
+\pgftext[x=9.349122in,y=0.738990in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA4D7D7E0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=9.620238in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{7}\)}%
+\pgftext[x=9.620238in,y=1.393521in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA4D7DAB0>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=9.349122in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont EPG\(\displaystyle {}_{8}\)}%
+\pgftext[x=9.349122in,y=2.048052in,,]{\color{textcolor}\sffamily\fontsize{8.000000}{9.600000}\selectfont <function draw_graph.<locals>.<lambda>.<locals>.<lambda> at 0x0000028CA6333400>}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
