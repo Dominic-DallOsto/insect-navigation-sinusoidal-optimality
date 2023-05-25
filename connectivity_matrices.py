@@ -4,7 +4,7 @@ from typing import Callable
 import numpy as np
 import scipy.io
 
-# Note: Generate all the functions by passing these
+# Note: All connectivity matrices are in [from,to] order, so should be transposed for plotting / other usage if required!
 
 class ConnectivityMatrix():
 	def __init__(self, num_pen: int, num_peg: int, num_epg: int, num_d7: int, loader: Callable[[], np.ndarray]) -> None:
@@ -24,25 +24,25 @@ class ConnectivityMatrix():
 slice_to_range = lambda slice: range(slice.start if slice.start else 0, slice.stop, slice.step if slice.step else 1)
 
 def get_fly_connectivity_matrix_raw():
-	return scipy.io.loadmat(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_mine_case_5_9cols_labels1.mat'))['con_matrix'].T
+	return scipy.io.loadmat(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_drosophila_mine_case_5_9cols_labels1.mat'))['con_matrix'].T
 
 def get_locust_connectivity_matrix_raw():
-	return scipy.io.loadmat(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_locust_mine_case_6_with3s_labels_1.mat'))['con_matrix'].T
+	return scipy.io.loadmat(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_locust_mine_case_6_with3s_labels_1.mat'))['con_matrix'].T
 
 def get_fly_janelia_connectivity_matrix_raw():
-	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_janelia_grouped.npy'))
+	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_drosophila_janelia_grouped.npy'))
 
 def get_fly_janelia_one_sided_9_neurons_connectivity_matrix_raw():
-	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_janelia_one_sided.npy'))
+	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_drosophila_janelia_one_sided.npy'))
 
 def get_fly_janelia_one_sided_8_neurons_connectivity_matrix_raw():
-	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_janelia_one_sided_8_neurons.npy'))
+	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_drosophila_janelia_one_sided_8_neurons.npy'))
 
 def get_fly_simplified_connectivity_matrix_raw():
-	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_simplified.npy'))
+	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_drosophila_simplified.npy'))
 
 def get_locust_simplified_connectivity_matrix_raw():
-	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_locust_simplified.npy'))
+	return np.load(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_locust_simplified.npy'))
 
 FLY = ConnectivityMatrix(16, 18, 18, 8, get_fly_connectivity_matrix_raw)
 LOCUST = ConnectivityMatrix(16, 16, 16, 8, get_locust_connectivity_matrix_raw)
@@ -155,7 +155,7 @@ def create_fly_simplified_connectivity_matrix():
 	for pre, post in edges:
 		connectivity_matrix[node_names.index(pre), node_names.index(post)] = -1 if pre.startswith('D7') else 1
 	
-	np.save(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_drosophila_simplified'), connectivity_matrix)
+	np.save(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_drosophila_simplified'), connectivity_matrix)
 
 def create_locust_simplified_connectivity_matrix():
 	edges = \
@@ -176,7 +176,7 @@ def create_locust_simplified_connectivity_matrix():
 	for pre, post in edges:
 		connectivity_matrix[node_names.index(pre), node_names.index(post)] = -1 if pre.startswith('D7') else 1
 	
-	np.save(os.path.join(os.path.dirname(__file__), 'connectivity_matrix_locust_simplified'), connectivity_matrix)
+	np.save(os.path.join(os.path.dirname(__file__), 'connectivity_matrices/connectivity_matrix_locust_simplified'), connectivity_matrix)
 
 
 if __name__ == "__main__":
