@@ -13,9 +13,9 @@ A sinusoidal activity profile in a circulant ring network doing path or heading 
 
 ## Comparison to experimental data
 
-* [Comparing the 4 population networks from Ioannis's paper to the abstract network we predict](insect%20network%20graph%20analysis.ipynb) - Figures 3, 4, S1, and S6
-* [Deriving the 4 population connectivity network from Janelia's connectome data](fruit_fly_data_analysis.ipynb) - Figures S2-S5
+* [Comparing the 4 population networks from Ioannis's paper to the abstract network we predict](insect%20network%20graph%20analysis.ipynb) - Figures 3, 4, M1, and M6
+* [Deriving the 4 population connectivity network from Janelia's connectome data](fruit_fly_data_analysis.ipynb) - Figures M2-S5
 
 ## Oja's rule can develop the network weights
 
-* [Updating both the activity and weights simultaneously](sinusoidal%20updating%20activity%20and%20weights.ipynb) - Figure 5
+* [Updating both the activity and weights simultaneously](sinusoidal%20updating%20activity%20and%20weights.ipynb) - Figures 5 and M7
