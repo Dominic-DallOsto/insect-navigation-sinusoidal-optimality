@@ -2,6 +2,28 @@
 
 A sinusoidal activity profile in a circulant ring network doing path or heading integration has some nice properties - it is noise resistant and self-stabilising with a Hebbian learning rule.
 
+This code performs the analysis and figure generation for the paper ["Theoretical principles explain the structure of the insect head direction circuit"](https://doi.org/10.7554/eLife.91533) or see preprint [here](https://doi.org/10.1101/2023.07.05.547838)
+
+If building on this analysis or these ideas, please cite our work:
+
+```bibtex
+@article {10.7554/eLife.53985,
+    article_type = {journal},
+    title = {Theoretical principles explain the structure of the insect head direction circuit},
+    author = {Vilimelis Aceituno, Pau and Dall'Osto, Dominic and Pisokas, Ioannis},
+    volume = 13,
+    year = 2024,
+    pages = {e91533},
+    citation = {eLife2024;13:e91533},
+    doi = {10.7554/eLife.91533},
+    url = {https://doi.org/10.7554/eLife.91533},
+    journal = {eLife},
+    publisher = {eLife Sciences Publications, Ltd},
+}
+```
+
+The code is available under the [BSD-3-Clause License](./LICENSE).
+
 ## Noise Resilience
 
 * [Noise resilience of using fewer Fourier modes](sinusoidal%20noise%20rejection%20negative%20activity.ipynb) - Figure 2
